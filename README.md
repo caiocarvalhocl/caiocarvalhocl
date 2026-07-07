@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&random=false&width=600&lines=Ol%C3%A1%2C+eu+sou+Caio+Carvalho+%F0%9F%91%8B;Hello%2C+I'm+Caio+Carvalho+%F0%9F%91%8B;Software+Developer;Java+%7C+Spring+Boot+%7C+Legacy+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&random=false&width=600&lines=Ol%C3%A1%2C+eu+sou+Caio+Carvalho+%F0%9F%91%8B;Hello%2C+I'm+Caio+Carvalho+%F0%9F%91%8B;Fullstack+Developer;Java+%7C+Spring+Boot+%7C+Angular+%7C+TypeScript)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-caiocarvalhocl.dev-22C55E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://caiocarvalhocl.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-caiocarvalhocl-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/caiocarvalhocl)
@@ -14,13 +14,13 @@
 
 ## 🇧🇷 Sobre Mim | 🇺🇸 About Me
 
-**🇧🇷 PT:** Desenvolvedor de Software focado em **Java** e sistemas empresariais. Atualmente trabalho na CISS S.A com PowerBuilder e sistemas legados ERP, buscando oportunidades remotas em Java/Spring Boot.
+**🇧🇷 PT:** Desenvolvedor **Fullstack** com **Java, Spring Boot, Angular e TypeScript**. Na CISS S.A mantenho e evoluo módulos críticos de vendas e integrações em sistemas ERP para varejo. Em projetos pessoais construo aplicações de ponta a ponta, de APIs REST a SPAs. Buscando oportunidades remotas em backend/fullstack.
 
-**🇺🇸 EN:** Software Developer focused on **Java** and enterprise systems. Currently working at CISS S.A with PowerBuilder and legacy ERP systems, seeking remote opportunities in Java/Spring Boot.
+**🇺🇸 EN:** **Fullstack** Developer working with **Java, Spring Boot, Angular, and TypeScript**. At CISS S.A I maintain and evolve critical sales and integration modules in retail ERP systems. In personal projects I build applications end to end, from REST APIs to SPAs. Seeking remote backend/fullstack opportunities.
 
-- 🏢 **CISS S.A** — Junior Developer
+- 🏢 **CISS S.A** · Junior Developer
 - 🎓 **Software Engineering** @ UTFPR (2023-2026)
-- 🌱 Learning: **Flutter**, **Angular**, **Algorithms**
+- 🌱 Learning: **Flutter**, **Algorithms & Data Structures**
 - 🐧 Linux Enthusiast: **Arch + Hyprland + Neovim**
 - 📍 Dois Vizinhos - PR, Brazil
 
@@ -35,9 +35,11 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Front-End**
 
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -55,7 +57,6 @@
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 **Environment**
 
@@ -90,6 +91,10 @@
 
 ## 🚀 Featured Projects
 
+[![DV Motos](https://github-readme-stats.vercel.app/api/pin/?username=caiocarvalhocl&repo=dvmotos&theme=dark&hide_border=true&bg_color=0d1117&title_color=22C55E&icon_color=22C55E)](https://github.com/caiocarvalhocl/dvmotos)
+[![Job Hunter](https://github-readme-stats.vercel.app/api/pin/?username=caiocarvalhocl&repo=job-hunter&theme=dark&hide_border=true&bg_color=0d1117&title_color=22C55E&icon_color=22C55E)](https://github.com/caiocarvalhocl/job-hunter)
+
+[![Restaurant Management](https://github-readme-stats.vercel.app/api/pin/?username=caiocarvalhocl&repo=Restaurant-Management&theme=dark&hide_border=true&bg_color=0d1117&title_color=22C55E&icon_color=22C55E)](https://github.com/caiocarvalhocl/Restaurant-Management)
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=caiocarvalhocl&repo=portifolio&theme=dark&hide_border=true&bg_color=0d1117&title_color=22C55E&icon_color=22C55E)](https://github.com/caiocarvalhocl/portifolio)
 
 ---
@@ -98,7 +103,7 @@
 
 ### 💬 Let's Connect!
 
-*Open to remote Java/Spring Boot opportunities*
+*Open to remote Backend / Fullstack opportunities | Java · Spring Boot · Angular · TypeScript*
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=22C55E&height=80&section=footer)
 
