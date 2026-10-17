@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&random=false&width=600&lines=Ol%C3%A1%2C+eu+sou+Caio+Carvalho+%F0%9F%91%8B;Hello%2C+I'm+Caio+Carvalho+%F0%9F%91%8B;Fullstack+Developer;Java+%7C+Spring+Boot+%7C+Angular+%7C+TypeScript)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&random=false&width=600&lines=Ol%C3%A1%2C+eu+sou+Caio+Carvalho+%F0%9F%91%8B;Hello%2C+I'm+Caio+Carvalho+%F0%9F%91%8B;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Angular+%7C+TypeScript)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-caiocarvalhocl.dev-22C55E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://caiocarvalhocl.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-caiocarvalhocl-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/caiocarvalhocl)
@@ -14,13 +14,13 @@
 
 ## 🇧🇷 Sobre Mim | 🇺🇸 About Me
 
-**🇧🇷 PT:** Desenvolvedor **Fullstack** com **Java, Spring Boot, Angular e TypeScript**. Na CISS S.A mantenho e evoluo módulos críticos de vendas e integrações em sistemas ERP para varejo. Em projetos pessoais construo aplicações de ponta a ponta, de APIs REST a SPAs. Buscando oportunidades remotas em backend/fullstack.
+**🇧🇷 PT:** Desenvolvedor **Full Stack** com **Java, Spring Boot, Angular e TypeScript**. Na CISS S.A. mantenho e evoluo módulos críticos de vendas e integrações em sistemas ERP para varejo. Em projetos pessoais construo aplicações de ponta a ponta, de APIs REST a SPAs. Buscando oportunidades remotas em backend/full stack.
 
-**🇺🇸 EN:** **Fullstack** Developer working with **Java, Spring Boot, Angular, and TypeScript**. At CISS S.A I maintain and evolve critical sales and integration modules in retail ERP systems. In personal projects I build applications end to end, from REST APIs to SPAs. Seeking remote backend/fullstack opportunities.
+**🇺🇸 EN:** **Full Stack** Developer working with **Java, Spring Boot, Angular, and TypeScript**. At CISS S.A. I maintain and evolve critical sales and integration modules in retail ERP systems. In personal projects I build applications end to end, from REST APIs to SPAs. Seeking remote backend/full stack opportunities.
 
-- 🏢 **CISS S.A** · Junior Developer
+- 🏢 **CISS S.A.** · Trainee Developer
 - 🎓 **Software Engineering** @ UTFPR (2023-2026)
-- 🌱 Learning: **Flutter**, **Algorithms & Data Structures**
+- 🌱 Learning: **Algorithms & Data Structures**
 - 🐧 Linux Enthusiast: **Arch + Hyprland + Neovim**
 - 📍 Dois Vizinhos - PR, Brazil
 
@@ -37,26 +37,23 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Front-End**
+**Front-End & Mobile**
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 **Databases & Tools**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![DB2](https://img.shields.io/badge/DB2-052FAD?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**Currently Learning**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 **Environment**
 
@@ -103,7 +100,7 @@
 
 ### 💬 Let's Connect!
 
-*Open to remote Backend / Fullstack opportunities | Java · Spring Boot · Angular · TypeScript*
+*Open to remote Backend / Full Stack opportunities | Java · Spring Boot · Angular · TypeScript*
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=22C55E&height=80&section=footer)
 
