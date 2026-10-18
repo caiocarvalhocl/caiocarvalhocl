@@ -19,7 +19,7 @@
 **🇺🇸 EN:** **Full Stack** Developer working with **Java, Spring Boot, Angular, and TypeScript**. At CISS S.A. I maintain and evolve critical sales and integration modules in retail ERP systems. In personal projects I build applications end to end, from REST APIs to SPAs. Seeking remote backend/full stack opportunities.
 
 - 🏢 **CISS S.A.** · Trainee Developer
-- 🎓 **Software Engineering** @ UTFPR (2023-2026)
+- 🎓 **Software Engineering** @ UTFPR (2023-2027)
 - 🌱 Learning: **Algorithms & Data Structures**
 - 💻 Environments: **Ubuntu**, **Arch + Hyprland** and **Windows**, with **Neovim** on all of them
 - 📍 Dois Vizinhos - PR, Brazil
