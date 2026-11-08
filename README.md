@@ -21,7 +21,7 @@
 - 🏢 **CISS S.A.** · Trainee Developer
 - 🎓 **Software Engineering** @ UTFPR (2023-2027)
 - 🌱 Learning: **Algorithms & Data Structures**
-- 💻 Environments: **Ubuntu**, **Arch + Hyprland** and **Windows**, with **Neovim** on all of them
+- 💻 Environment: **Ubuntu**, with **Neovim** and **VS Code**
 - 📍 Dois Vizinhos - PR, Brazil
 
 ---
@@ -58,9 +58,8 @@
 **Environment**
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
